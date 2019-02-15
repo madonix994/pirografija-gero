@@ -612,7 +612,7 @@ ul.social-buttons li a:active,ul.social-buttons li a:focus,ul.social-buttons li 
     color: white;
     font-weight: bold;
     font-size: 20px;
-    border-radius: 0 3px 3px 0
+    border-radius: 0 3px 3px 0;
     user-select: none;
     -webkit-user-select: none;
     background-color: rgba(0, 0, 0, 0.8);
